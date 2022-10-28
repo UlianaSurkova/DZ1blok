@@ -1,0 +1,15 @@
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\bin\Debug\net6.0\Blok1.exe
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\bin\Debug\net6.0\Blok1.deps.json
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\bin\Debug\net6.0\Blok1.runtimeconfig.json
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\bin\Debug\net6.0\Blok1.dll
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\bin\Debug\net6.0\Blok1.pdb
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.csproj.AssemblyReference.cache
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.AssemblyInfoInputs.cache
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.AssemblyInfo.cs
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.csproj.CoreCompileInputs.cache
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.dll
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\refint\Blok1.dll
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.pdb
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\Blok1.genruntimeconfig.cache
+C:\Users\91645\OneDrive\Рабочий стол\Blok1\obj\Debug\net6.0\ref\Blok1.dll
